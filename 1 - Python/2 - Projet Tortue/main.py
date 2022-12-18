@@ -11,12 +11,12 @@ t = turtle.Turtle() # ici on crée une variable objet
 t.forward(100) # Permet à la tortue de se déplacer en avant, de (xxx) pixels.
 t.left(90) # Tortue pivote a gauche de (xxx) degrés sur elle-meme (elle ne se deplace pas !)
 t.forward(50)
-t.backward(100) # Tortue se deplcae en arriere de (xxx) pixels
+t.backward(100) # Tortue se deplace en arriere de (xxx) pixels
 t.right(45) # Tortue pivote a droite de (xxx) degrés sur elle-meme (elle ne se deplace pas !)
 t.forward(200)
 
 
-turtle.done() # garder la fenetre active tant qu'on ne la ferme pas nous-memes
+turtle.done() # garder la fenetre active tant qu'on ne la ferme pas nous-meme
 """
 
 #Exercice : faire un escalier de 5 marches de 30 pixels
